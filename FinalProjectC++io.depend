@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1586254562 source:c:\users\dim-e\desktop\cpp\cpp\finalprojectc++ with io\bst.cpp
+	"BST.h"
+
+1586202363 c:\users\dim-e\desktop\cpp\cpp\finalprojectc++ with io\bst.h
+	<iostream>
+	<cstdlib>
+	<string>
+
+1586957637 source:c:\users\dim-e\desktop\cpp\cpp\finalprojectc++ with io\hashtable.cpp
+	"HashTable.h"
+
+1586957661 c:\users\dim-e\desktop\cpp\cpp\finalprojectc++ with io\hashtable.h
+	<iostream>
+	<cstring>
+
+1586438359 source:c:\users\dim-e\desktop\cpp\cpp\finalprojectc++ with io\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	"HashTable.h"
+	"BST.h"
+
+1586254562 source:c:\users\dim-e\desktop\cpp\finalprojectc++ with io\bst.cpp
+	"BST.h"
+
+1586202363 c:\users\dim-e\desktop\cpp\finalprojectc++ with io\bst.h
+	<iostream>
+	<cstdlib>
+	<string>
+
+1586957637 source:c:\users\dim-e\desktop\cpp\finalprojectc++ with io\hashtable.cpp
+	"HashTable.h"
+
+1586958329 c:\users\dim-e\desktop\cpp\finalprojectc++ with io\hashtable.h
+	<iostream>
+	<cstring>
+
+1591696381 source:c:\users\dim-e\desktop\cpp\finalprojectc++ with io\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	"HashTable.h"
+	"BST.h"
+	"AVL.h"
+
+1591696674 source:c:\users\dim-e\desktop\cpp\finalprojectc++ with io\avl.cpp
+	"AVL.h"
+	<iostream>
+	<cstdlib>
+	<string>
+
+1591439146 c:\users\dim-e\desktop\cpp\finalprojectc++ with io\avl.h
+	<string>
+
+1590832671 c:\users\dim-e\desktop\cpp\finalprojectc++ with io\test.h
+	<string>
+
+1591439146 c:\users\dim-e\desktop\cpp\finalprojectc++ with io\avltest.h
+	<string>
+
+1591439312 source:c:\users\dim-e\desktop\cpp\finalprojectc++ with io\avltest.cpp
+	"AVLtest.h"
+	<iostream>
+	<cstdlib>
+	<string>
+

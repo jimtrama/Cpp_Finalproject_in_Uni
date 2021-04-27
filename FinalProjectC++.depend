@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1585834837 source:c:\users\dim-e\desktop\cpp\cpp\finalprojectc++\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	"HashTable.h"
+	"Tree.h"
+	"AVL_Tree.h"
+
+1585834704 source:c:\users\dim-e\desktop\cpp\cpp\finalprojectc++\hashtable.cpp
+	"HashTable.h"
+
+1585834704 c:\users\dim-e\desktop\cpp\cpp\finalprojectc++\hashtable.h
+	<iostream>
+	<cstring>
+
+1585830236 source:c:\users\dim-e\desktop\cpp\cpp\finalprojectc++\tree.cpp
+	"Tree.h"
+
+1585829818 c:\users\dim-e\desktop\cpp\cpp\finalprojectc++\tree.h
+	<iostream>
+	<cstring>
+
+1585553673 source:c:\users\dim-e\desktop\cpp\cpp\finalprojectc++\avl_tree.cpp
+	"AVL_Tree.h"
+
+1585830635 c:\users\dim-e\desktop\cpp\cpp\finalprojectc++\avl_tree.h
+	<iostream>
+
+1585834704 source:c:\users\dim-e\desktop\cpp\cpp\finalprojectc++ with io\hashtable.cpp
+	"HashTable.h"
+
+1585834704 c:\users\dim-e\desktop\cpp\cpp\finalprojectc++ with io\hashtable.h
+	<iostream>
+	<cstring>
+
+1585846800 source:c:\users\dim-e\desktop\cpp\cpp\finalprojectc++ with io\bst.cpp
+	"BST.h"
+
+1585846800 c:\users\dim-e\desktop\cpp\cpp\finalprojectc++ with io\bst.h
+	<iostream>
+	<cstdlib>
+	<string>
+
+1585846926 source:c:\users\dim-e\desktop\cpp\cpp\finalprojectc++ with io\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	"HashTable.h"
+	"BST.h"
+
